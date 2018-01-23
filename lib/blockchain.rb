@@ -6,7 +6,7 @@ class Blockchain
   attr_reader :pending, :chain
   
   COINBASE = "COINBASE"
-  MINING_REWARD_AMOUNT = 5
+  MINING_REWARD_AMOUNT = .0024576747215
   
   def initialize address
     @chain = []
