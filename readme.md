@@ -1,8 +1,5 @@
-# Blockchain Toy
+Welcome. Feel free to submit a pull request!
 
-Inspired by @dvf's blog post [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46), I decided to implement my own in ruby.
-
-![dashboard](/dashboard.png?raw=true "Dashboard")
 
 ## Features
 
